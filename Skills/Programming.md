@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: 👂 heard
-  - Modeling: 👂 heard
-  - Subject domain: 👂 heard
+  - Model: 🎓 known
+  - Modeling: 🎓 known
+  - Subject domain: 🎓 known
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
   - Semantics: 🙋 explained
@@ -12,7 +12,7 @@
   - Programm: 🙋 explained
   - Programming paradigm: 🙋 explained
   - Programming language: 🙋 explained
-  - Contract: 🙋 explained
+  - Contract: 🎓 known
   - Module: 🙋 explained
   - Library: 🙋 explained
   - Package: 🙋 explained
@@ -25,12 +25,12 @@
   - Microcode: 👂 heard
   - Software engineering: 🙋 explained
   - Decomposition: 🙋 explained
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY): 🖐️ used
-  - KISS principle: 🙋 explained
+  - Control flow: 🎓 known
+  - Data flow: 🎓 known
+  - Code reuse: 🎓 known
+  - Defensive programming: 👂 heard
+  - Don't repeat yourself (DRY): 🎓 known
+  - KISS principle: 🎓 known
 - Syntax and concepts
   - Value: 🙋 explained
   - Identifier: 🙋 explained
@@ -45,7 +45,7 @@
   - Method: 🙋 explained
   - Class: 🙋 explained
   - Prototype: 🙋 explained
-  - Event: 🙋 explained
+  - Event: 🎓 known
   - Type: 🙋 explained
   - Flag: 🙋 explained
   - Lexical scope: 🙋 explained
@@ -63,23 +63,23 @@
   - Snake case: 🙋 explained
   - Kebab case: 🙋 explained
   - Trailing commas: 🙋 explained
-  - Return early: 🖐️ used
-  - Fail-fast: 🖐️ used
+  - Return early: 🙋 explained
+  - Fail-fast: 🙋 explained
 - Types
   - Primitive types: 🙋 explained
   - Reference types: 🙋 explained
   - Type systems: 🙋 explained
   - Strong typing: 🙋 explained
-  - Weak typing: 🙋 explained
-  - Duck typing: 🙋 explained
+  - Weak typing: 👂 heard
+  - Duck typing: 👂 heard
   - Static typing: 🙋 explained
   - Dynamic typing: 🙋 explained
   - Nominal typing: 🙋 explained
-  - Structural typing: 🙋 explained
-  - Explicit typing: 🙋 explained
-  - Type inference: 🙋 explained
-  - Covariance: 🙋 explained
-  - Contravariance: 🙋 explained
+  - Structural typing: 🎓 known
+  - Explicit typing: 🎓 known
+  - Type inference: 👂 heard
+  - Covariance: 👂 heard
+  - Contravariance: 👂 heard
 - Functions
   - Signature: 🙋 explained
   - Argument: 🙋 explained
@@ -87,8 +87,8 @@
   - Pure function: 🙋 explained
   - Lambda expression: 🙋 explained
   - Side effects: 🙋 explained
-  - Closure: 🙋 explained
-  - Partial application: 🎓 known
+  - Closure: 🎓 known
+  - Partial application: 🙋 explained
   - Currying: 🎓 known
   - Higher order: 🙋 explained
   - Recursion: 🙋 explained
@@ -96,14 +96,14 @@
   - Callback: 🙋 explained
   - Listener: 🙋 explained
   - Composition: 🙋 explained
-  - Pipe: 👂 heard
-  - Memoize: 🎓 known
+  - Pipe: 🙋 explained
+  - Memoize: 🙋 explained
   - Wrapper: 🙋 explained
   - Functor: 🎓 known
-  - Monad: 👂 heard
-  - Monoid: 👂 heard
-  - Generator: 👂 heard
-  - Coroutine: 👂 heard
+  - Monad: 🎓 known
+  - Monoid: 🎓 known
+  - Generator: 🎓 known
+  - Coroutine: 🎓 known
 - Data structures
   - Array: 🙋 explained
   - Structure: 🙋 explained
@@ -120,7 +120,7 @@
   - Circular list: 🙋 explained
   - Queue: 🙋 explained
   - Stack: 🙋 explained
-  - Deque
+  - Deque: 🙋 explained
   - Tree: 🙋 explained
   - Graph: 🙋 explained
   - Iterator: 🙋 explained
@@ -128,9 +128,9 @@
   - Immutable state: 🙋 explained
   - Serialization: 🙋 explained
   - String parsing: 🙋 explained
-  - JSON: 🎓 known
+  - JSON: 🙋 explained
   - JSON5: 👂 heard
-  - YAML: 🎓 known
+  - YAML: 🙋 explained
 - Networking
   - DNS: 🙋 explained
   - CDN: 👂 heard
@@ -143,19 +143,19 @@
   - URI: 👂 heard
 - Process and tools
   - Compiler: 🙋 explained
-  - Just-in-time compilation: 🙋 explained
-  - Ahead-of-time compilation: 🙋 explained
-  - Transpiler: 👂 heard
+  - Just-in-time compilation: 🎓 known
+  - Ahead-of-time compilation: 🎓 known
+  - Transpiler: 🎓 known
   - Linter: 🙋 explained
   - Polyfill: 🙋 explained
-  - Interpreter: 👂 heard
-  - Linker
-  - Dynamic linking
-  - Static linking
+  - Interpreter: 🙋 explained
+  - Linker: 👂 heard
+  - Dynamic linking: 👂 heard
+  - Static linking: 👂 heard
   - Runtime: 🙋 explained
   - Virtual machine: 🖐️ used
-  - Register-based VM
-  - Stack-based VM
+  - Register-based VM: 👂 heard
+  - Stack-based VM: 👂 heard
   - Containerization: 🎓 known
   - Debugger: 🙋 explained
   - Tracing: 🎓 known
@@ -163,18 +163,18 @@
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
-  - Unittesting
+  - Unittesting: 🙋 explained
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🖐️ used
   - Kubernetes: 🎓 known
-  - GCC
-  - LLVM
+  - GCC: 🖐️ used
+  - LLVM: 👂 heard
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
   - Soft code: 👂 heard
-  - Cryptic code: 🙋 explained
+  - Cryptic code: 🎓 known
   - Improbability factor: 🙋 explained
   - Accidental complexity: 🙋 explained
   - Action at a distance: 🙋 explained
@@ -185,7 +185,7 @@
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
   - Premature optimization: 🙋 explained
-  - Micro-optimization: 🙋 explained
+  - Micro-optimization: 🎓 known
   - Nested loops: 🙋 explained
   - Long method/function/procedure: 🙋 explained
   - Long inheritance: 🙋 explained
@@ -197,10 +197,10 @@
   - Temporary field: 🙋 explained
   - Handle object as instances and hashes at the same time: 🙋 explained
   - Use fields instead of arguments: 🙋 explained
-  - Data clump
-  - Feature envy
-  - Monkey patch: 👂 heard
-  - Yo-yo problem: 👂 heard
+  - Data clump: 🎓 known
+  - Feature envy: 🎓 known
+  - Monkey patch: 🎓 known
+  - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
   - Bytecode: 👂 heard
   - V8: 👂 heard
@@ -208,19 +208,19 @@
   - CLR: 👂 heard
   - Mono: 👂 heard
 - Operating systems
-  - Interrupts: 🎓 known
-  - Drivers: 🎓 known
-  - Kernel: 🎓 known
-  - Ring: 🎓 known
-  - Virtual memory: 🎓 known
-  - File system: 🎓 known
+  - Interrupts: 👂 heard
+  - Drivers
+  - Kernel
+  - Ring
+  - Virtual memory
+  - File system
   - Linux: 🙋 explained
   - Unix: 🎓 known
   - BSD: 👂 heard
   - MacOS: 🙋 explained
   - Windows: 🙋 explained
-  - Real-time OS: 🎓 known
-  - Embedded OS: 🎓 known
+  - Real-time OS: 👂 heard
+  - Embedded OS: 👂 heard
 - Standards
   - ASCII: 🎓 known
   - Escape sequence

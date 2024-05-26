@@ -21,7 +21,7 @@
   - List: 🙋 explained
   - Set: 🙋 explained
   - Map: 🙋 explained
-  - Collection, Iterable: 🖐️ used
+  - Collection, Iterable: 🙋 explained
 - Methods
   - Arguments: 🙋 explained
   - Return type: 🙋 explained
@@ -35,12 +35,12 @@
   - Constructors: 🙋 explained
   - final: 🙋 explained
   - this: 🙋 explained
-  - Initializer: 🖐️ used
-  - Mutable and immutable objects: 🖐️ used
-  - Enum classes: 🖐️ used
+  - Initializer: 🙋 explained
+  - Mutable and immutable objects: 🙋 explained
+  - Enum classes: 🙋 explained
   - Class Object: 🙋 explained
   - toString(): 🙋 explained
-  - equals(), hashcode(): 🖐️ used
+  - equals(), hashcode(): 🙋 explained
   - Packages: 🙋 explained
 - Object-Oriented Programming (OOP)
   - Abstraction: 🙋 explained
@@ -50,10 +50,10 @@
   - Abstract class: 🙋 explained
   - Abstract method: 🙋 explained
   - Interface: 🙋 explained
-  - final class: 🖐️ used
-  - final method: 🖐️ used
-  - final property: 🖐️ used
-  - Nested class: 🖐️ used
+  - final class: 🙋 explained
+  - final method: 🙋 explained
+  - final property: 🙋 explained
+  - Nested class: 🙋 explained
   - Inner class: 🙋 explained
   - public: 🙋 explained
   - private: 🙋 explained
@@ -72,42 +72,42 @@
   - Lower-bounded wildcard: 👂 heard
 - Functional programming
   - Functional interfaces: 🖐️ used
-  - Lambdas: 🖐️ used
+  - Lambdas: 🙋 explained
   - Method references: 🖐️ used
-  - Java Stream API: 🖐️ used
+  - Java Stream API: 🙋 explained
 - Input/Output
   - try/catch with resource: 🙋 explained
   - Scanner: 🙋 explained
-  - ByteArrayOutputStream: 🖐️ used
-  - ByteArrayInputStream: 🖐️ used
-  - DataOutputStream: 🖐️ used
-  - DataInputStream: 🖐️ used
-  - OutputStreamWriter: 🖐️ used
-  - InputStreamReader: 🖐️ used
-- Serialization u
-  - BufferedOutputStream: 🖐️ used
-  - BufferedInputStream: 🖐️ used
-  - BufferedWriter: 🖐️ used
-  - BufferedReader: 🖐️ used
-  - File: 🖐️ used
-  - RandomAccessFile: 🖐️ used
-  - FileInputStream: 🖐️ used
-  - FileOutputStream: 🖐️ used
+  - ByteArrayOutputStream: 🙋 explained
+  - ByteArrayInputStream: 🙋 explained
+  - DataOutputStream: 🙋 explained
+  - DataInputStream: 🙋 explained
+  - OutputStreamWriter: 🙋 explained
+  - InputStreamReader: 🙋 explained
+  - Serialization: 🙋 explained
+  - BufferedOutputStream: 🙋 explained
+  - BufferedInputStream: 🙋 explained
+  - BufferedWriter: 🙋 explained
+  - BufferedReader: 🙋 explained
+  - File: 🙋 explained
+  - RandomAccessFile: 🙋 explained
+  - FileInputStream: 🙋 explained
+  - FileOutputStream: 🙋 explained
 - Multithreading
   - Thread: 🖐️ used
   - Runnable: 🖐️ used
-  - Semaphore: 👂 heard
-  - Lock: 👂 heard
-  - Atomic types and operations: 👂 heard
-  - Monitors: 👂 heard
-  - synchronized methods: 👂 heard
-  - synchronized blocks: 👂 heard
-  - Synchronized collections: 👂 heard
-  - Dead locks, race conditions: 👂 heard
-  - Date/Time API: 👂 heard
+  - Semaphore: 🖐️ used
+  - Lock: 🖐️ used
+  - Atomic types and operations: 🖐️ used
+  - Monitors: 🖐️ used
+  - synchronized methods: 🖐️ used
+  - synchronized blocks: 🖐️ used
+  - Synchronized collections: 🖐️ used
+  - Dead locks, race conditions: 🖐️ used
+  - Date/Time API: 🖐️ used
 - Spring Framework
-  - Spring Core: 👂 heard
-  - Spring Boot: 👂 heard
-  - Spring MVC: 👂 heard
-  - Spring Data: 👂 heard
-  - Spring Security: 👂 heard
+  - Spring Core: 🖐️ used
+  - Spring Boot: 🖐️ used
+  - Spring MVC: 🖐️ used
+  - Spring Data: 🖐️ used
+  - Spring Security: 🖐️ used
