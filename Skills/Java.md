@@ -1,0 +1,113 @@
+## Java
+- Code basics
+  - Variables e
+  - Primitive types e
+  - String e
+  - Object e
+  - Arithmetic operators e
+  - Boolean operators e
+  - Complex conditions e
+  - if/else e
+  - switch e
+  - Arrays e
+  - for loop e
+  - while loop e
+  - do ... while loop e
+  - foreach loop e
+  - try/catch e
+  - Checked exceptions e
+  - Unchecked exceptions e
+  - Errors e
+  - List e
+  - Set e
+  - Map e
+  - Collection, Iterable e
+- Methods
+  - Arguments e
+  - Return type e
+  - Method signature e
+  - Method overloading e
+  - Recursion e
+- Classes and objects
+  - Properties e
+  - Methods e
+  - static e
+  - Constructors e
+  - final e
+  - this e
+  - Initializer e
+  - Mutable and immutable objects e
+  - Enum classes e
+  - Class Object e
+  - toString() e
+  - equals(), hashcode() e
+  - Packages e
+- Object-Oriented Programming (OOP)
+  - Abstraction e
+  - Encapsulation e
+  - Inheritance e
+  - Polymorphism e
+  - Abstract class e
+  - Abstract method e
+  - Interface e
+  - final class e
+  - final method e
+  - final property e
+  - Nested class e
+  - Inner class e
+  - public e
+  - private e
+  - protected e
+  - package-private u
+  - Cast operator u
+  - instanceof e
+- Generics
+  - Class with type arguments e
+  - Method with type arguments e
+  - Bounded type arguments e
+  - Type inference e
+  - Diamond operator <> u
+  - Unbounded wildcard h
+  - Upper-bounded wildcard h
+  - Lower-bounded wildcard h
+- Functional programming
+  - Functional interfaces u
+  - Lambdas e
+  - Method references u
+  - Java Stream API e
+- Input/Output
+  - try/catch with resource e
+  - Scanner e
+  - ByteArrayOutputStream e
+  - ByteArrayInputStream e
+  - DataOutputStream e
+  - DataInputStream e
+  - OutputStreamWriter e
+  - InputStreamReader e
+  - Serialization e
+  - BufferedOutputStream e
+  - BufferedInputStream e
+  - BufferedWriter e
+  - BufferedReader e
+  - File e
+  - RandomAccessFile e
+  - FileInputStream e
+  - FileOutputStream e
+- Multithreading
+  - Thread u
+  - Runnable u
+  - Semaphore u
+  - Lock u
+  - Atomic types and operations u
+  - Monitors u
+  - synchronized methods u
+  - synchronized blocks u
+  - Synchronized collections u
+  - Dead locks, race conditions u
+  - Date/Time API u
+- Spring Framework
+  - Spring Core u
+  - Spring Boot u
+  - Spring MVC u
+  - Spring Data u
+  - Spring Security u
