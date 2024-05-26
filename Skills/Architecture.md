@@ -1,40 +1,40 @@
 ## Architecture
 
 - Application structure
-  - Modularity e
-  - Components e
-  - Directories e
-  - GRASP h
-  - SOLID u
-  - GoF patterns h
-  - CQS h
-  - Leaking abstractions h
-  - Multiparadigm code k
-  - Contract programming h
-  - Platform-agnostic h
-  - Transport-agnostic h
-  - Framework-agnostic h
-  - Code coverage u
-  - Cohesion h
+  - Modularity: 🙋 explained
+  - Components: 🙋 explained
+  - Directories: 🙋 explained
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
+  - CQS: 👂 heard
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🖐️ used
+  - Cohesion: 👂 heard
   - Coupling
-  - Cyclomatic complexity h
-  - Reliability e
-  - Quality e
-  - Availability e
-  - Flexibility e
-  - Law of Demeter (LoD) h
+  - Cyclomatic complexity: 👂 heard
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer k
-  - Domain-specific language (DSL) h
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
-  - Hexagonal architecture h
+  - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC)
-  - Metaprogramming h
-  - Inversion of control (IoC) u
-  - Dependency injection (DI) u
-  - Clean architecture k
-  - Domain-driven design (DDD) k
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
+  - Domain-driven design (DDD): 🎓 known
   - Pub/sub
   - Message brocker
   - Agent
@@ -45,12 +45,12 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation k
+  - Budget estimation: 🎓 known
   - Distributed systems
   - High-intensive computing
-  - Load balancing u
+  - Load balancing: 🖐️ used
   - Gateways
   - On-premises
   - IaaS
@@ -62,18 +62,18 @@
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
-  - Solution visions h
-  - Solution capabilities h
-  - System design h
-  - Process modelling h
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
@@ -85,7 +85,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope h
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance h
+  - Quality assurance: 👂 heard
   - Engineering Hygiene
