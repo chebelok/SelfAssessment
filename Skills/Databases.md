@@ -72,7 +72,7 @@
 - Engines
   - PostgreSQL u
   - Oracle
-  - MySQL
+  - MySQL u
   - MariaDB
   - MS SQL Server u
   - Redis
