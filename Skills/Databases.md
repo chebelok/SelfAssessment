@@ -1,78 +1,78 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
+  - Data types e
+  - Performance tuning h
+  - Migrations h
+  - Schema versioning h
+  - Backup and recovery h
   - Database scalability
   - Relational databases
-  - Key-value store
-  - Tuple store
-  - Graph databases
+  - Key-value store h
+  - Tuple store h
+  - Graph databases h
   - Object databases
   - Column databases
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
-  - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Inverted index 
+  - Data control language (DCL) k
+  - Data definition language (DDL) k
+  - Data manipulation language (DML) k
+  - Data query language (DQL) k
 - Relational
-  - Entity-Relationship Diagram
-  - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
-  - Views
-  - Subqueries
+  - Entity-Relationship Diagram h
+  - Normal forms h
+  - Indexing h
+  - Primary keys e
+  - Foreign keys e
+  - Transactions e
+  - Views h
+  - Subqueries h
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
-  - `HAVING`
-  - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
-  - `UNION`
-  - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
-  - `GRANT`
-  - `REVOKE`
-  - `DENY`
-  - `EXPLAIN`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
+  - `LIMIT` h
+  - `OFFSET` u
+  - `ORDER BY` u
+  - `GROUP BY` u
+  - `HAVING` h
+  - `EXISTS` u
+  - `JOIN` u
+  - `INNER JOIN` h
+  - `LEFT JOIN` h
+  - `RIGHT JOIN` h
+  - `UNION` h
+  - `DISTINCT` h
+  - `WHERE` u
+  - `LIKE` h
+  - `IN` u
+  - `BETWEEN` h
+  - `CREATE TABLE` u
+  - `ALTER TABLE` u
+  - `DROP TABLE` u
+  - `PRIMARY KEY` u
+  - `FOREIGN KEY` u
+  - `CHECK` h
+  - `DEFAULT` h
+  - `INDEX` h
+  - `UNIQUE` h
+  - `GRANT` h
+  - `REVOKE` h
+  - `DENY` h
+  - `EXPLAIN` h
 - Engines
-  - PostgreSQL
+  - PostgreSQL h
   - Oracle
-  - MySQL
+  - MySQL u
   - MariaDB
   - MS SQL Server
   - Redis
