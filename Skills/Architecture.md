@@ -1,40 +1,40 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
+  - Modularity e
+  - Components e
+  - Directories e
+  - GRASP h
+  - SOLID u
+  - GoF patterns h
+  - CQS h
+  - Leaking abstractions h
+  - Multiparadigm code k
+  - Contract programming h
+  - Platform-agnostic h
+  - Transport-agnostic h
+  - Framework-agnostic h
+  - Code coverage u
+  - Cohesion h
   - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Cyclomatic complexity h
+  - Reliability e
+  - Quality e
+  - Availability e
+  - Flexibility e
+  - Law of Demeter (LoD) h
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer k
+  - Domain-specific language (DSL) h
   - System vs applied code
   - Multilayer approach
-  - Hexagonal architecture
+  - Hexagonal architecture h
   - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
+  - Metaprogramming h
+  - Inversion of control (IoC) u
+  - Dependency injection (DI) u
+  - Clean architecture k
+  - Domain-driven design (DDD) k
   - Pub/sub
   - Message brocker
   - Agent
@@ -45,12 +45,12 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML u
   - Work breakdown structure
-  - Budget estimation
+  - Budget estimation k
   - Distributed systems
   - High-intensive computing
-  - Load balancing
+  - Load balancing u
   - Gateways
   - On-premises
   - IaaS
@@ -62,18 +62,18 @@
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
+  - Solution visions h
+  - Solution capabilities h
+  - System design h
+  - Process modelling h
   - Data modelling
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code h
+  - No-code h
   - Metric
   - Metric abuse
   - ACID
@@ -85,7 +85,7 @@
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope h
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance h
   - Engineering Hygiene
