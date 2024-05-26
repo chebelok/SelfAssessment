@@ -1,10 +1,113 @@
 ## Java
 - Code basics
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - String: 🙋 explained
+  - Object: 🙋 explained
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - if/else: 🙋 explained
+  - switch: 🙋 explained
+  - Arrays: 🙋 explained
+  - for loop: 🙋 explained
+  - while loop: 🙋 explained
+  - do ... while loop: 🙋 explained
+  - foreach loop: 🙋 explained
+  - try/catch: 🙋 explained
+  - Checked exceptions: 🙋 explained
+  - Unchecked exceptions: 🙋 explained
+  - Errors: 🙋 explained
+  - List: 🙋 explained
+  - Set: 🙋 explained
+  - Map: 🙋 explained
+  - Collection, Iterable: 🖐️ used
 - Methods
+  - Arguments: 🙋 explained
+  - Return type: 🙋 explained
+  - Method signature: 🙋 explained
+  - Method overloading: 🙋 explained
+  - Recursion: 🙋 explained
 - Classes and objects
+  - Properties: 🙋 explained
+  - Methods: 🙋 explained
+  - static: 🙋 explained
+  - Constructors: 🙋 explained
+  - final: 🙋 explained
+  - this: 🙋 explained
+  - Initializer: 🖐️ used
+  - Mutable and immutable objects: 🖐️ used
+  - Enum classes: 🖐️ used
+  - Class Object: 🙋 explained
+  - toString(): 🙋 explained
+  - equals(), hashcode(): 🖐️ used
+  - Packages: 🙋 explained
 - Object-Oriented Programming (OOP)
+  - Abstraction: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Abstract method: 🙋 explained
+  - Interface: 🙋 explained
+  - final class: 🖐️ used
+  - final method: 🖐️ used
+  - final property: 🖐️ used
+  - Nested class: 🖐️ used
+  - Inner class: 🙋 explained
+  - public: 🙋 explained
+  - private: 🙋 explained
+  - protected: 🙋 explained
+  - package-private: 🖐️ used
+  - Cast operator: 🖐️ used
+  - instanceof: 🙋 explained
 - Generics
+  - Class with type arguments: 🙋 explained
+  - Method with type arguments: 🙋 explained
+  - Bounded type arguments: 🙋 explained
+  - Type inference: 🙋 explained
+  - Diamond operator <>: 🖐️ used
+  - Unbounded wildcard: 👂 heard
+  - Upper-bounded wildcard: 👂 heard
+  - Lower-bounded wildcard: 👂 heard
 - Functional programming
+  - Functional interfaces: 🖐️ used
+  - Lambdas: 🖐️ used
+  - Method references: 🖐️ used
+  - Java Stream API: 🖐️ used
 - Input/Output
+  - try/catch with resource: 🙋 explained
+  - Scanner: 🙋 explained
+  - ByteArrayOutputStream: 🖐️ used
+  - ByteArrayInputStream: 🖐️ used
+  - DataOutputStream: 🖐️ used
+  - DataInputStream: 🖐️ used
+  - OutputStreamWriter: 🖐️ used
+  - InputStreamReader: 🖐️ used
+- Serialization u
+  - BufferedOutputStream: 🖐️ used
+  - BufferedInputStream: 🖐️ used
+  - BufferedWriter: 🖐️ used
+  - BufferedReader: 🖐️ used
+  - File: 🖐️ used
+  - RandomAccessFile: 🖐️ used
+  - FileInputStream: 🖐️ used
+  - FileOutputStream: 🖐️ used
 - Multithreading
+  - Thread: 🖐️ used
+  - Runnable: 🖐️ used
+  - Semaphore: 👂 heard
+  - Lock: 👂 heard
+  - Atomic types and operations: 👂 heard
+  - Monitors: 👂 heard
+  - synchronized methods: 👂 heard
+  - synchronized blocks: 👂 heard
+  - Synchronized collections: 👂 heard
+  - Dead locks, race conditions: 👂 heard
+  - Date/Time API: 👂 heard
 - Spring Framework
+  - Spring Core: 👂 heard
+  - Spring Boot: 👂 heard
+  - Spring MVC: 👂 heard
+  - Spring Data: 👂 heard
+  - Spring Security: 👂 heard

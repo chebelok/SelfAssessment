@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-208&nbsp;/&nbsp;284&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/chebelok/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-208&nbsp;/&nbsp;284&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/chebelok/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-208&nbsp;/&nbsp;284&nbsp;/&nbsp;731-FF3300?style=flat-square)](https://github.com/chebelok/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-208&nbsp;/&nbsp;284&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/chebelok/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/chebelok/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-208&nbsp;/&nbsp;284&nbsp;/&nbsp;731-FF3300?style=flat-square"></a>
+<a href="https://github.com/chebelok/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-208&nbsp;/&nbsp;284&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
