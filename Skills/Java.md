@@ -1,113 +1,113 @@
 ## Java
 - Code basics
-  - Variables e
-  - Primitive types e
-  - String e
-  - Object e
-  - Arithmetic operators e
-  - Boolean operators e
-  - Complex conditions e
-  - if/else e
-  - switch e
-  - Arrays e
-  - for loop e
-  - while loop e
-  - do ... while loop e
-  - foreach loop e
-  - try/catch e
-  - Checked exceptions e
-  - Unchecked exceptions e
-  - Errors e
-  - List e
-  - Set e
-  - Map e
-  - Collection, Iterable u
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - String: 🙋 explained
+  - Object: 🙋 explained
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - if/else: 🙋 explained
+  - switch: 🙋 explained
+  - Arrays: 🙋 explained
+  - for loop: 🙋 explained
+  - while loop: 🙋 explained
+  - do ... while loop: 🙋 explained
+  - foreach loop: 🙋 explained
+  - try/catch: 🙋 explained
+  - Checked exceptions: 🙋 explained
+  - Unchecked exceptions: 🙋 explained
+  - Errors: 🙋 explained
+  - List: 🙋 explained
+  - Set: 🙋 explained
+  - Map: 🙋 explained
+  - Collection, Iterable: 🖐️ used
 - Methods
-  - Arguments e
-  - Return type e
-  - Method signature e
-  - Method overloading e
-  - Recursion e
+  - Arguments: 🙋 explained
+  - Return type: 🙋 explained
+  - Method signature: 🙋 explained
+  - Method overloading: 🙋 explained
+  - Recursion: 🙋 explained
 - Classes and objects
-  - Properties e
-  - Methods e
-  - static e
-  - Constructors e
-  - final e
-  - this e
-  - Initializer u
-  - Mutable and immutable objects u
-  - Enum classes u
-  - Class Object e
-  - toString() e
-  - equals(), hashcode() u
-  - Packages e
+  - Properties: 🙋 explained
+  - Methods: 🙋 explained
+  - static: 🙋 explained
+  - Constructors: 🙋 explained
+  - final: 🙋 explained
+  - this: 🙋 explained
+  - Initializer: 🖐️ used
+  - Mutable and immutable objects: 🖐️ used
+  - Enum classes: 🖐️ used
+  - Class Object: 🙋 explained
+  - toString(): 🙋 explained
+  - equals(), hashcode(): 🖐️ used
+  - Packages: 🙋 explained
 - Object-Oriented Programming (OOP)
-  - Abstraction e
-  - Encapsulation e
-  - Inheritance e
-  - Polymorphism e
-  - Abstract class e
-  - Abstract method e
-  - Interface e
-  - final class u
-  - final method u
-  - final property u
-  - Nested class u
-  - Inner class e
-  - public e
-  - private e
-  - protected e
-  - package-private u
-  - Cast operator u
-  - instanceof e
+  - Abstraction: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Abstract method: 🙋 explained
+  - Interface: 🙋 explained
+  - final class: 🖐️ used
+  - final method: 🖐️ used
+  - final property: 🖐️ used
+  - Nested class: 🖐️ used
+  - Inner class: 🙋 explained
+  - public: 🙋 explained
+  - private: 🙋 explained
+  - protected: 🙋 explained
+  - package-private: 🖐️ used
+  - Cast operator: 🖐️ used
+  - instanceof: 🙋 explained
 - Generics
-  - Class with type arguments e
-  - Method with type arguments e
-  - Bounded type arguments e
-  - Type inference e
-  - Diamond operator <> u
-  - Unbounded wildcard h
-  - Upper-bounded wildcard h
-  - Lower-bounded wildcard h
+  - Class with type arguments: 🙋 explained
+  - Method with type arguments: 🙋 explained
+  - Bounded type arguments: 🙋 explained
+  - Type inference: 🙋 explained
+  - Diamond operator <>: 🖐️ used
+  - Unbounded wildcard: 👂 heard
+  - Upper-bounded wildcard: 👂 heard
+  - Lower-bounded wildcard: 👂 heard
 - Functional programming
-  - Functional interfaces u
-  - Lambdas u
-  - Method references u
-  - Java Stream API u
+  - Functional interfaces: 🖐️ used
+  - Lambdas: 🖐️ used
+  - Method references: 🖐️ used
+  - Java Stream API: 🖐️ used
 - Input/Output
-  - try/catch with resource e
-  - Scanner e
-  - ByteArrayOutputStream u
-  - ByteArrayInputStream u
-  - DataOutputStream u
-  - DataInputStream u
-  - OutputStreamWriter u
-  - InputStreamReader u
+  - try/catch with resource: 🙋 explained
+  - Scanner: 🙋 explained
+  - ByteArrayOutputStream: 🖐️ used
+  - ByteArrayInputStream: 🖐️ used
+  - DataOutputStream: 🖐️ used
+  - DataInputStream: 🖐️ used
+  - OutputStreamWriter: 🖐️ used
+  - InputStreamReader: 🖐️ used
 - Serialization u
-  - BufferedOutputStream u
-  - BufferedInputStream u
-  - BufferedWriter u
-  - BufferedReader u
-  - File u
-  - RandomAccessFile u
-  - FileInputStream u
-  - FileOutputStream u
+  - BufferedOutputStream: 🖐️ used
+  - BufferedInputStream: 🖐️ used
+  - BufferedWriter: 🖐️ used
+  - BufferedReader: 🖐️ used
+  - File: 🖐️ used
+  - RandomAccessFile: 🖐️ used
+  - FileInputStream: 🖐️ used
+  - FileOutputStream: 🖐️ used
 - Multithreading
-  - Thread u
-  - Runnable u
-  - Semaphore h
-  - Lock h
-  - Atomic types and operations h
-  - Monitors h
-  - synchronized methods h
-  - synchronized blocks h
-  - Synchronized collections h
-  - Dead locks, race conditions h
-  - Date/Time API h
+  - Thread: 🖐️ used
+  - Runnable: 🖐️ used
+  - Semaphore: 👂 heard
+  - Lock: 👂 heard
+  - Atomic types and operations: 👂 heard
+  - Monitors: 👂 heard
+  - synchronized methods: 👂 heard
+  - synchronized blocks: 👂 heard
+  - Synchronized collections: 👂 heard
+  - Dead locks, race conditions: 👂 heard
+  - Date/Time API: 👂 heard
 - Spring Framework
-  - Spring Core h
-  - Spring Boot h
-  - Spring MVC h
-  - Spring Data h
-  - Spring Security h
+  - Spring Core: 👂 heard
+  - Spring Boot: 👂 heard
+  - Spring MVC: 👂 heard
+  - Spring Data: 👂 heard
+  - Spring Security: 👂 heard
